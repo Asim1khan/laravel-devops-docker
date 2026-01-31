@@ -29,4 +29,3 @@ jobs:
           file: docker/php/Dockerfile
           push: true
           tags: asimkhan96/laravel-devops-fir:latest
-
